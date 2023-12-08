@@ -1186,13 +1186,13 @@ form label {
   font-family: "Sacramento", Arial, serif;
 }
 
-.fh5co-heading h4 {
+.fh5co-heading h3 {
   font-size: 60px;
   margin-bottom: 10px;
   line-height: 1.5;
   font-weight: bold;
   color: #6b94eb;
-  font-family: "Roboto", Arial, serif;
+  font-family: 'Edu VIC WA NT Beginner', cursive;
 }
 @media screen and (max-width: 768px) {
   .fh5co-heading h2 {
