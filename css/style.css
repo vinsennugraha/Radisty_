@@ -1185,6 +1185,15 @@ form label {
   color: #6b94eb;
   font-family: "Sacramento", Arial, serif;
 }
+
+.fh5co-heading h4 {
+  font-size: 60px;
+  margin-bottom: 10px;
+  line-height: 1.5;
+  font-weight: bold;
+  color: #6b94eb;
+  font-family: "Roboto", Arial, serif;
+}
 @media screen and (max-width: 768px) {
   .fh5co-heading h2 {
     font-size: 40px;
@@ -1402,6 +1411,8 @@ fh5co-started {
   #fh5co-footer .copyright .pull-right {
     float: none !important;
     text-align: center;
+    width: 100%;
+    height: 50px;
   }
 }
 #fh5co-footer .copyright .block {
