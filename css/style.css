@@ -888,8 +888,8 @@ form label {
 #fh5co-counter .display-tc .btn,
 .fh5co-cover .display-tc .btn {
   padding: 15px 20px;
-  background: #fff !important;
-  color: #6b94eb;
+  background: #d63c9b !important;
+  color: #ffffff;
   border: none !important;
   font-size: 14px;
   text-transform: uppercase;
@@ -1191,7 +1191,7 @@ form label {
   margin-bottom: 10px;
   line-height: 1.5;
   font-weight: bold;
-  color: #6b94eb;
+  color: #000000;
   font-family: "Sacramento", Arial, serif;
 }
 
@@ -1200,7 +1200,7 @@ form label {
   margin-bottom: 10px;
   line-height: 1.5;
   font-weight: bold;
-  color: #6b94eb;
+  color: #ffffff;
   font-family: 'Edu VIC WA NT Beginner', cursive;
 }
 @media screen and (max-width: 768px) {
@@ -1393,7 +1393,7 @@ fh5co-started {
 #fh5co-started .btn {
   height: 54px;
   border: none !important;
-  background: #6b94eb;
+  background: #d63c9b;
   color: #fff;
   font-size: 16px;
   text-transform: uppercase;
@@ -1878,7 +1878,7 @@ fh5co-started {
   display: inline-block;
   width: 100px;
   height: 100px;
-  background: #6b94eb;
+  background: #d63c9b;
   border-radius: 20%;
   position: relative;
   animation: pulse 1s ease infinite;
@@ -1898,7 +1898,7 @@ fh5co-started {
 #clockdiv div > span{
 	padding: 15px;
 	border-radius: 3px;
-	background: #6b94eb;
+	background: #d63c9b;
 	display: inline-block;
 }
 
