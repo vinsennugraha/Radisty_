@@ -1,4 +1,4 @@
-var deadline = 'juni 2 2024 11:00:18 GMT-1000';
+var deadline = 'juni 1 2024 11:00:18 GMT-1000';
 function time_remaining(endtime){
 	var t = Date.parse(endtime) - Date.parse(new Date());
 	var seconds = Math.floor( (t/1000) % 60 );
